@@ -1,4 +1,4 @@
-# Notidicacion - Alarma
+# Notificacion - Alarma
 
 
 - **Preview**
